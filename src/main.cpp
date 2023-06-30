@@ -18,7 +18,6 @@ typedef enum GameState {
 GameState currentGameState;
 
 Sound titleTheme;
-Sound selectSound;
 
 Texture2D logo;
 
